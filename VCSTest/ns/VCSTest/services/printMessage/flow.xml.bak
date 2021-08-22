@@ -626,6 +626,12 @@
 
 <MAPDELETE FIELD="/level;1;0">
 </MAPDELETE>
+
+<MAPDELETE FIELD="/pattern;1;0">
+</MAPDELETE>
+
+<MAPDELETE FIELD="/value;1;0">
+</MAPDELETE>
 </MAP>
 </INVOKE>
 </FLOW>
